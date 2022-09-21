@@ -15,3 +15,4 @@ To make it work with our parser in an engine-backend, we had to changed the foll
 
 3. Embed directly the fields of `foaf:mbox` and `foaf:name`
 
+4. Add `terms:title` and `terms:description` to all entities according to the documentation.
